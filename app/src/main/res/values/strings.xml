@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="add">Add</string>
+    <string name="stocksymbol">Stock Symbol</string>
+    <string name="companyname">Company Name</string>
+    <string name="price">Price</string>
+    <string name="change">Change</string>
+    <string name="changeP">ChangeP</string>
+    <string name="dir">Direction</string>
+    <string name="data_file">DataFile.json</string>
+</resources>
